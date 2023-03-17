@@ -3,6 +3,6 @@
 set PYTHON=
 set GIT=
 set VENV_DIR=
-set COMMANDLINE_ARGS=--medvram --ckpt v1-5-pruned.ckpt
+set COMMANDLINE_ARGS=--medvram
 
 call webui.bat
